@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{041D31E8-05C7-4EF0-8221-A29431948315}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "video", "video\video.vcxproj", "{1C55CBC4-5636-486E-AD62-959FECBCB6E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mat4.1", "Mat4.1\Mat4.1.vcxproj", "{4AB525DC-AF44-484A-BADF-291EE2214424}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basemat4", "basemat4\basemat4.vcxproj", "{8670F747-F88B-4F21-88FD-5701F98B7478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041D31E8-05C7-4EF0-8221-A29431948315}.Debug|Win32.ActiveCfg = Debug|Win32
+		{041D31E8-05C7-4EF0-8221-A29431948315}.Debug|Win32.Build.0 = Debug|Win32
+		{041D31E8-05C7-4EF0-8221-A29431948315}.Release|Win32.ActiveCfg = Release|Win32
+		{041D31E8-05C7-4EF0-8221-A29431948315}.Release|Win32.Build.0 = Release|Win32
+		{1C55CBC4-5636-486E-AD62-959FECBCB6E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C55CBC4-5636-486E-AD62-959FECBCB6E8}.Debug|Win32.Build.0 = Debug|Win32
+		{1C55CBC4-5636-486E-AD62-959FECBCB6E8}.Release|Win32.ActiveCfg = Release|Win32
+		{1C55CBC4-5636-486E-AD62-959FECBCB6E8}.Release|Win32.Build.0 = Release|Win32
+		{4AB525DC-AF44-484A-BADF-291EE2214424}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AB525DC-AF44-484A-BADF-291EE2214424}.Debug|Win32.Build.0 = Debug|Win32
+		{4AB525DC-AF44-484A-BADF-291EE2214424}.Release|Win32.ActiveCfg = Release|Win32
+		{4AB525DC-AF44-484A-BADF-291EE2214424}.Release|Win32.Build.0 = Release|Win32
+		{8670F747-F88B-4F21-88FD-5701F98B7478}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8670F747-F88B-4F21-88FD-5701F98B7478}.Debug|Win32.Build.0 = Debug|Win32
+		{8670F747-F88B-4F21-88FD-5701F98B7478}.Release|Win32.ActiveCfg = Release|Win32
+		{8670F747-F88B-4F21-88FD-5701F98B7478}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
